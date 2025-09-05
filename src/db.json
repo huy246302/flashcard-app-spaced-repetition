@@ -1,0 +1,14 @@
+{
+    "question": [
+        {
+            "id":1,
+            "question": "What is sky call in German?",
+            "answer": "Himmel"
+        },
+        {
+            "id":2,
+            "question": "How many time have the German national football team won the World Cup?",
+            "answer": 4
+        }
+    ]
+}
